@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://apilab.work">
-    <img
-      src="https://avatars.githubusercontent.com/app-apilab
-      "
-      alt="API Lab"
-      height="64"
-    />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/apilab-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/apilab-light.svg">
+        <img alt="API Lab" src="./assets/apilab-dark.svg"
+        height="64">
+      </picture>
   </a>
   <h3>
     <b>
